@@ -130,7 +130,7 @@ index=* "*comsvcs.dll*" "*MiniDump*"
 <br>
 
 **Sysmon Installation and Noise Reduction:**
-1. Download the Sysinternals Suite to the Windows Server.
+1. Download the Sysmon on the Windows Server.
 2. Download SwiftOnSecurity Sysmon Configuration (`sysmonconfig-export.xml`) and place it in the extracted folder.
 3. Open CMD as Administrator and install: `sysmon64.exe -i -n`
 4. Apply the baseline: `sysmon64.exe -c sysmonconfig-export.xml`
