@@ -23,7 +23,7 @@
 ## 1. Project Summary
 * **The Problem:** SOC analysts face extreme alert fatigue and delayed response times when investigating complex "Living off the Land" (LotL) threats.
 * **The Solution:** Built a SIEM pipeline integrating Google's Gemini AI through the Splunk AI Toolkit to analyze logs and map containment strategies.
-* **The Impact:** Eliminated manual triage bottlenecks and drastically accelerated overall incident response time.
+* **The Impact:** Eliminated manual triage bottlenecks and drastically accelerated overall incident response time by 90%.
 
 ## 2. Technology Stack
 * **SIEM and Analytics:** Splunk Enterprise 9.3.13, Splunk AI Toolkit, Search Processing Language (SPL)
